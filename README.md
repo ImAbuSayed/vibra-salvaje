@@ -15,7 +15,7 @@
 | **Written On** | May 17, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vibra-salvaje/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Vibra Salvaje](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vibra-salvaje/) |
+| **Get License** | [Official Music Licensing for Vibra Salvaje](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vibra-salvaje/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8ff2a043e416c3b934e8289601a715e2b888eb92621f1531bda0be75e3591614` |
 | **Timestamp** | May 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
