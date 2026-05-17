@@ -15,7 +15,7 @@
 | **Written On** | May 17, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vibra-salvaje/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Vibra Salvaje](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vibra-salvaje/) |
+| **Get License** | [Get License For Vibra Salvaje](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vibra-salvaje/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, tú tienes la vibra salvaje que me vuelve loco
+> En la oscuridad, tu mirada y el humo, poquito a poco
+> Dime si esta noche nos perdemos por la city
+> Sabes que yo quiero, baby, you look so pretty
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
